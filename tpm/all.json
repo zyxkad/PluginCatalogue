@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "schema_version": 4,
+    "id": "tpm",
+    "name": "TpManager",
+    "version": "0.5.0",
+    "link": "https://github.com/kmcsr/tpmanager_mcdr",
+    "authors": [
+      "zyxkad"
+    ],
+    "dependencies": {
+      "mcdreforged": "^2.3.0",
+      "kpi": "~1.4.6"
+    },
+    "requirements": [],
+    "description": {
+      "en_us": "A Minecraft teleport manager",
+      "zh_cn": "一个Minecraft服务器传送管理"
+    }
+  },
+  "plugin": {
+    "schema_version": 1,
+    "id": "tpm",
+    "authors": [
+      "zyxkad"
+    ],
+    "repository": "https://github.com/kmcsr/tpmanager_mcdr",
+    "branch": "master",
+    "related_path": ".",
+    "labels": [
+      "tool"
+    ],
+    "introduction": {
+      "en_us": "*Data fetching failed*",
+      "zh_cn": "*数据拉取失败*"
+    }
+  },
+  "release": null,
+  "repository": null
+}

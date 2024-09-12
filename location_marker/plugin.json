@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "location_marker",
+  "authors": [
+    "Fallen_Breath",
+    "Van_Involution"
+  ],
+  "repository": "https://github.com/TISUnion/LocationMarker",
+  "branch": "master",
+  "related_path": ".",
+  "labels": [
+    "information"
+  ],
+  "introduction": {
+    "en_us": "*Data fetching failed*",
+    "zh_cn": "*Data fetching failed*"
+  }
+}

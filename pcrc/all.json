@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "schema_version": 4,
+    "id": "pcrc",
+    "name": "PCRC",
+    "version": "1.4.1",
+    "link": "https://github.com/Fallen-Breath/PCRC",
+    "authors": [
+      "Fallen_Breath"
+    ],
+    "dependencies": {},
+    "requirements": [
+      "cryptography",
+      "requests",
+      "pynbt",
+      "redbaron",
+      "colorlog",
+      "ruamel.yaml"
+    ],
+    "description": {
+      "en_us": "PyCraft based Replay Client",
+      "zh_cn": "基于PyCraft的Replay客户端"
+    }
+  },
+  "plugin": {
+    "schema_version": 1,
+    "id": "pcrc",
+    "authors": [
+      "Fallen_Breath"
+    ],
+    "repository": "https://github.com/Fallen-Breath/PCRC",
+    "branch": "master",
+    "related_path": ".",
+    "labels": [
+      "tool"
+    ],
+    "introduction": {
+      "en_us": "*Data fetching failed*",
+      "zh_cn": "*Data fetching failed*"
+    }
+  },
+  "release": null,
+  "repository": null
+}

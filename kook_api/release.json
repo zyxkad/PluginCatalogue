@@ -1,0 +1,3 @@
+{
+  "_error": "Un-expected status code 429: b'{\\n  \"documentation_url\": \"https://developer.github.com/v3/#abuse-rate-limits\",\\n  \"message\": \"You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.\"\\n}\\n'"
+}

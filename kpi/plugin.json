@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "kpi",
+  "authors": [
+    "zyxkad"
+  ],
+  "repository": "https://github.com/kmcsr/kpi_mcdr",
+  "branch": "master",
+  "related_path": ".",
+  "labels": [
+    "api"
+  ],
+  "introduction": {
+    "en_us": "*Data fetching failed*",
+    "zh_cn": "*数据拉取失败*"
+  }
+}

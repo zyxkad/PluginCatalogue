@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "schema_version": 4,
+    "id": "offline_whitelist",
+    "name": "OfflineWhitelist",
+    "version": "0.1.4",
+    "link": "https://github.com/skuzow/offline-whitelist",
+    "authors": [
+      "skuzow"
+    ],
+    "dependencies": {
+      "mcdreforged": ">=2.0.0"
+    },
+    "requirements": [
+      "mcdreforged>=2.0.0"
+    ],
+    "description": {
+      "en_us": "Offline whitelist helper"
+    }
+  },
+  "plugin": {
+    "schema_version": 1,
+    "id": "offline_whitelist",
+    "authors": [
+      "skuzow"
+    ],
+    "repository": "https://github.com/skuzow/offline-whitelist",
+    "branch": "master",
+    "related_path": ".",
+    "labels": [
+      "management"
+    ],
+    "introduction": {
+      "en_us": "*Data fetching failed*",
+      "zh_cn": "*Data fetching failed*"
+    }
+  },
+  "release": null,
+  "repository": null
+}

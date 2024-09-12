@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "diamond_calc",
+  "authors": [
+    "Huaji_MUR233"
+  ],
+  "repository": "https://github.com/HuajiMUR233/DiamondCalc",
+  "branch": "master",
+  "related_path": ".",
+  "labels": [
+    "tool"
+  ],
+  "introduction": {
+    "en_us": "*Data fetching failed*",
+    "zh_cn": "*Data fetching failed*"
+  }
+}

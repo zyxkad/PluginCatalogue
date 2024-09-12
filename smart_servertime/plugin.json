@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "smart_servertime",
+  "authors": [
+    "zyxkad"
+  ],
+  "repository": "https://github.com/kmcsr/smart_servertime_mcdr",
+  "branch": "master",
+  "related_path": ".",
+  "labels": [
+    "management"
+  ],
+  "introduction": {
+    "en_us": "*Data fetching failed*",
+    "zh_cn": "*数据拉取失败*"
+  }
+}

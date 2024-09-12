@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "schema_version": 4,
+    "id": "smart_backup",
+    "name": "SmartBackup",
+    "version": "1.4.2",
+    "link": "https://github.com/kmcsr/smart_backup_mcdr",
+    "authors": [
+      "zyxkad"
+    ],
+    "dependencies": {
+      "mcdreforged": ">=2.0.0"
+    },
+    "requirements": [],
+    "description": {
+      "en_us": "A Minecraft Backup Plugin",
+      "zh_cn": "一个多功能Minecraft存档备份插件"
+    }
+  },
+  "plugin": {
+    "schema_version": 1,
+    "id": "smart_backup",
+    "authors": [
+      "zyxkad"
+    ],
+    "repository": "https://github.com/kmcsr/smart_backup_mcdr",
+    "branch": "master",
+    "related_path": ".",
+    "labels": [
+      "management"
+    ],
+    "introduction": {
+      "en_us": "*Data fetching failed*",
+      "zh_cn": "*数据拉取失败*"
+    }
+  },
+  "release": null,
+  "repository": null
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "region_file_manager",
+  "authors": [
+    "judamar"
+  ],
+  "repository": "https://github.com/judamar/RegionFileManager",
+  "branch": "master",
+  "related_path": ".",
+  "labels": [
+    "management"
+  ],
+  "introduction": {
+    "en_us": "*Data fetching failed*",
+    "zh_cn": "*Data fetching failed*"
+  }
+}

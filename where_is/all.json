@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "schema_version": 4,
+    "id": "where_is",
+    "name": "Where Is",
+    "version": "2.2.1",
+    "link": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR",
+    "authors": [
+      "Ra1ny_Yuki"
+    ],
+    "dependencies": {
+      "minecraft_data_api": "*",
+      "mcdreforged": ">=2.12.0"
+    },
+    "requirements": [
+      "mcdreforged>=2.1.3"
+    ],
+    "description": {
+      "en_us": "Query players' coordinates",
+      "zh_cn": "查询玩家的坐标"
+    }
+  },
+  "plugin": {
+    "schema_version": 1,
+    "id": "where_is",
+    "authors": [
+      "Ra1ny_Yuki"
+    ],
+    "repository": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR",
+    "branch": "master",
+    "related_path": ".",
+    "labels": [
+      "information"
+    ],
+    "introduction": {
+      "en_us": "*Data fetching failed*",
+      "zh_cn": "*Data fetching failed*"
+    }
+  },
+  "release": null,
+  "repository": null
+}
